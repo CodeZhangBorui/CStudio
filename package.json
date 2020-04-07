@@ -1,0 +1,8 @@
+{
+    "main": "index.htm",
+    "name": "cstudio",
+    "window":{
+        "icon":"favicon.png",
+        "resizable":false
+    }
+}
